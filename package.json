@@ -1,0 +1,19 @@
+{
+  "name": "innovation60seconds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsiddiqi/innovation60seconds.git"
+  },
+  "author": "Faisal Siddiqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fsiddiqi/innovation60seconds/issues"
+  },
+  "homepage": "https://github.com/fsiddiqi/innovation60seconds#readme"
+}
